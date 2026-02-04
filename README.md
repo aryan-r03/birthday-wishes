@@ -254,15 +254,18 @@ A **heartfelt digital experience** designed as a personalized gift. Features two
 │  [Grid: 13 images]  │   │  [Grid: 14 images]  │
 └─────────────────────┘   └─────────────────────┘
 ```
+</div>
 
 ### Animation Timeline
 
 ```
 Landing → Card Click
-  ├─ Cards fade out (0.5s)
+│
+├─ Cards fade out (0.5s)
 ├─ Home section hidden
 ├─ Video transition (1s fade)
 ├─ Project section appears (1s fade)
+│
 ├─ NOTE MODE:
 │   ├─ Text lines fade in sequentially (3.5s per line)
 │   ├─ Music starts playing
@@ -305,7 +308,7 @@ Landing → Card Click
 ╚══════════════════════════════════════════════╝
 ```
 
-</div>
+
 
 ---
 
